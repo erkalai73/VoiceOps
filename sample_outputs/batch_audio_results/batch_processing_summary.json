@@ -1,0 +1,9 @@
+{
+  "total_files": 2,
+  "successful": 0,
+  "failed": 2,
+  "status": "BLOCKED — credentials not configured",
+  "error": "GNANI_API_KEY is not configured in environment. Genuine speech services required.",
+  "live_gnani": false,
+  "records": []
+}

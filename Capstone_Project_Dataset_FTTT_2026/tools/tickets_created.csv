@@ -1,0 +1,26 @@
+ticket_id,created_at,order_id,intent,reason,summary
+TKT4aa00c244fd84255b4f5d07ad852a442,2026-10-23T22:22:52,89782837,damage_claim,high_value_damage,"High-value damage report on order 89782837 (> ₹10,000). Escalated to Priority Resolution team."
+TKT06a6dcb32d634abfa23aa54d497729d7,2026-10-25T11:03:08,89782837,damage_claim,high_value_damage,"Verified customer reports damaged high-value order 89782837 (value > ₹10,000). Priority review required."
+TKT5adfc7b2ea2248e58be6e114f289d911,2026-10-25T11:03:09,37113676,human_handoff,human_requested,Customer requested human escalation: क्या मैं किसी इंसान से बात कर सकती हूँ?
+TKTf024c148aede4405b4b6a2e3d252b771,2026-10-25T11:03:09,66492475,human_handoff,human_requested,"Customer requested human escalation: Actually, can I just speak to a person?"
+TKT5a6b500ebedc43d784764046d50b92e1,2026-10-25T11:03:09,45011817,human_handoff,repeat_contact,Customer requested human escalation: Main is hafte teesri baar call kar rahi hoon isi baare mein.
+TKTbd312d132f544517946981cf86d7a63f,2026-10-25T11:03:09,48196636,human_handoff,repeat_contact,Customer requested human escalation: This is the third time I'm calling about this in a week.
+TKT7eaf98ced083488d833b794948c1b654,2026-10-25T11:44:43,69520867,human_handoff,human_requested,Customer requested human escalation: this is ridiculous i want to speak to a human supervisor
+TKT0e342c30dc6b48a8b5814d4f1f7f7299,2026-10-25T18:30:08,89782837,damage_claim,high_value_damage,"Verified customer reports damaged high-value order 89782837 (value > ₹10,000). Priority review required."
+TKT57f054754d0e4c75ad59d76d9c293553,2026-10-25T18:30:08,37113676,human_handoff,human_requested,Customer requested human escalation: क्या मैं किसी इंसान से बात कर सकती हूँ?
+TKT4ad042fad3d746c48eafa0d67175fd05,2026-10-25T18:30:08,66492475,human_handoff,human_requested,"Customer requested human escalation: Actually, can I just speak to a person?"
+TKT24356aeecf1448df9cd9ca256fe2c3a8,2026-10-25T18:30:08,45011817,human_handoff,repeat_contact,Customer requested human escalation: Main is hafte teesri baar call kar rahi hoon isi baare mein.
+TKT38e2a9152b7546aaaa543042c8dab397,2026-10-25T18:30:08,48196636,human_handoff,repeat_contact,Customer requested human escalation: This is the third time I'm calling about this in a week.
+TKT21671df89c1c4af9877d32defef098d7,2026-10-25T18:30:08,16640894,refund_status,delayed_refund,Delayed refund enquiry for order 16640894. Reference number RRN 315633825001.
+TKT921c2c17f4e2412a91c95adf5c004bb2,2026-10-25T19:33:24,89782837,damage_claim,high_value_damage,"Verified customer reports damaged high-value order 89782837 (value > ₹10,000). Priority review required."
+TKT6601dbf34f354b53990b8573dea99729,2026-10-25T19:33:24,37113676,human_handoff,human_requested,Customer requested human escalation: क्या मैं किसी इंसान से बात कर सकती हूँ?
+TKT0cea1ed3c54840688fdace8822ca62b2,2026-10-25T19:33:24,66492475,human_handoff,human_requested,"Customer requested human escalation: Actually, can I just speak to a person?"
+TKT32bb2a233192499382226bac77145321,2026-10-25T19:33:24,45011817,human_handoff,repeat_contact,Customer requested human escalation: Main is hafte teesri baar call kar rahi hoon isi baare mein.
+TKT274a96b5e85745cdb014ed4c90e88744,2026-10-25T19:33:24,48196636,human_handoff,repeat_contact,Customer requested human escalation: This is the third time I'm calling about this in a week.
+TKT3a8134b1445a4291af5edc7f053ee2ea,2026-10-25T19:33:24,16640894,refund_status,delayed_refund,Delayed refund enquiry for order 16640894. Reference number RRN 315633825001.
+TKT09baf3c10d004811a7114f45c82f5bdb,2026-10-25T19:41:57,89782837,damage_claim,high_value_damage,"Verified customer reports damaged high-value order 89782837 (value > ₹10,000). Priority review required."
+TKTb7b4da0d02b048d8bfd1c88baf3118d5,2026-10-25T19:41:58,37113676,human_handoff,human_requested,Customer requested human escalation: क्या मैं किसी इंसान से बात कर सकती हूँ?
+TKT3085fb54ee124a7ca32334b5abefebb1,2026-10-25T19:41:58,66492475,human_handoff,human_requested,"Customer requested human escalation: Actually, can I just speak to a person?"
+TKTbaf5f7c15ada493dac9c2b86bb4c5bc6,2026-10-25T19:41:58,45011817,human_handoff,repeat_contact,Customer requested human escalation: Main is hafte teesri baar call kar rahi hoon isi baare mein.
+TKT6b9ca7ce8b8646dc94612a1bea1eaa97,2026-10-25T19:41:58,48196636,human_handoff,repeat_contact,Customer requested human escalation: This is the third time I'm calling about this in a week.
+TKT973c4156d3a04fe7bec04025e3d1e988,2026-10-25T19:41:58,16640894,refund_status,delayed_refund,Delayed refund enquiry for order 16640894. Reference number RRN 315633825001.
